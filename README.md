@@ -1,4 +1,4 @@
-# python
+# python-game
 shotting-game 
 
 You need to install pygame in advance
